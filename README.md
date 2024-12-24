@@ -12,8 +12,8 @@ Aspiring Software Engineer | Passionate about Full-Stack Development and Innovat
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChM2BnUCtuRkjU3GnwmN_Dg)
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
+
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
