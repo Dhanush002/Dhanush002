@@ -17,8 +17,6 @@ Aspiring Software Engineer | Passionate about Full-Stack Development and Innovat
 
 ### 💻 Workspace Spec
  
-<img width="50" height="50" src="https://img.icons8.com/ios/50/mac-os--v1.png" alt="mac-os--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/windows-10.png" alt="windows-10"/>
-<img width="26" height="26" src="https://img.icons8.com/metro/26/linux.png" alt="linux"/>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/mac-os--v1.png" alt="mac-os--v1"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/windows-10.png" alt="windows-10"/><img width="50" height="50" src="https://img.icons8.com/metro/26/linux.png" alt="linux"/>
 
 
